@@ -1,0 +1,10 @@
+# Site settings
+title: daproductions
+email: admin@daproductions.net
+description: "DJ &amp; Lighting Company serving the Greater Seattle-Metro Area"
+baseurl: ""
+url: "http://daproductions.net"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
